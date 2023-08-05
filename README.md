@@ -1,7 +1,7 @@
 ### Olá a todos!! Sejam bem vindos!!!
 
 
-- 💻 Técnico de teconologia da informação;
+- 💻 Técnico de Tecnologia da Informação;
 - 💻 Estou estudando Engenharia de software e Análise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
