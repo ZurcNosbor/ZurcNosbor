@@ -2,8 +2,8 @@
 
 
 - 💻 Técnico de Tecnologia da Informação;
-- 💻 Estou estudando Engenharia de software e Análise e Desenvolvimento de Sistemas.
-
+- 💻 Formado no tecnólogo de Análise e Desenvolvimento de Sistemas;
+- 💻 Estou no último semestre do curso Bacharel de Engenharia de software.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
